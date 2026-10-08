@@ -1,0 +1,10 @@
+# Báo cáo kiểm tra: chứa serial máy và key Windows OEM, không đưa lên repo
+BaoCao_*.html
+
+# smartmontools là phần mềm GPL của bên thứ ba, người dùng tự tải
+smartctl/
+
+# File tạm / hệ thống
+*.tmp
+Thumbs.db
+desktop.ini

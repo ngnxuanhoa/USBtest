@@ -1,0 +1,7 @@
+# Script Windows dùng kiểu xuống dòng CRLF khi checkout
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+
+# Tài liệu dùng LF
+*.md text eol=lf
+LICENSE text eol=lf
